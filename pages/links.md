@@ -1,15 +1,15 @@
 ---
 layout: mypost
-title: 友情链接
+title: Links
 ---
 
-欢迎各位朋友与我建立友链，如需友链请到[留言板](chat.html)留言，我看到留言后会添加上的，本站的友链信息如下
+If u want me to add some of ur links, please contact me and leave a comment like this:
 
 ```
-名称：{{ site.title }}
-描述：{{ site.description }}
-地址：{{ site.domainUrl }}{{ site.baseurl }}
-头像：{{ site.domainUrl }}{{ site.baseurl }}/static/img/logo.jpg
+title：{{ site.title }}
+description：{{ site.description }}
+url：{{ site.domainUrl }}{{ site.baseurl }}
+icon：{{ site.domainUrl }}{{ site.baseurl }}/static/img/logo.jpg
 ```
 
 <ul>

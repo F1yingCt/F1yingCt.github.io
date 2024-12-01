@@ -24,22 +24,22 @@ domainUrl: 'https://F1yingCt.github.io'
 baseurl: ''
 
 # 吐个槽地址，会在chat页面中重定向到该地址
-tucaoUrl: https://support.qq.com/product/86335
+tucaoUrl: https://music.163.com/#/artist?id=48571641
 
 # 菜单
 # 必填字段 title: '文本' url: '链接'
 # 可选字段 target: '_blank' 新页面打开 
 menu:
-  - title: 首页
+  - title: Homepage
     url: /
-  - title: 归类
+  - title: Categories
     url: /pages/categories.html
-  - title: 搜索
+  - title: Search
     url: /pages/search.html
-  - title: 留言
+  - title: Music
     url: /pages/chat.html
     target: '_blank'
-  - title: 关于
+  - title: About Me
     url: /pages/about.html
 
 # 点击页面文字冒出特效,不需要请设置为false
