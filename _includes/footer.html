@@ -1,0 +1,18 @@
+<footer class="footer">
+  <span>{{ site.footerText }}</span>
+  <a href="{{ site.baseurl }}/static/xml/rss.xml">RSS订阅</a>
+  {%- comment %} Please reserve the theme source, thanks. {% endcomment %}
+  <span>Themed By</span>
+  <a href="https://github.com/TMaize/tmaize-blog">TMaize</a>
+
+  {%- if site.extCount %}
+    <span>Page views</span>
+    <span id="busuanzi_value_site_pv"></span>
+  {% endif %}
+  <div class="footer-btn theme-toggler hide">
+    <i class="svg-icon icon-theme-light"></i>
+  </div>
+  <div class="footer-btn to-top">
+    <i class="svg-icon icon-arrow-top"></i>
+  </div>
+</footer>
