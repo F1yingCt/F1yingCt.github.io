@@ -4,9 +4,9 @@ plugins:
   - jekyll-regex-replace
 
 # SEO相关信息
-title: Welcome to Chris Wang's Blog
+title: Chris Wang's Blog
 description: Chris(Zining) Wang's Blog
-keywords: Zining Wang,Chris Wang,Blog
+keywords: Zining Wang,Chris Wang,Blog,HUST
 author: Chris Wang
 footerText: ''
 
