@@ -38,7 +38,7 @@ menu:
     url: /pages/search.html
   - title: 留言
     url: /pages/chat.html
-    target: '_blank
+    target: '_blank'
   - title: 关于
     url: /pages/about.html
 
