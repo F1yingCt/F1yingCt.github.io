@@ -17,9 +17,9 @@ I have developed two VR projects in Unreal Engine 4&5--a skeleton sliding simula
 
 ## Other interests
 
-I formed a band with my friends. I am a bassist.
-I am a TCG player. 
-I also have interests on designing board games.
+- I formed a band with my friends. I am a bassist.
+- I am a TCG player. 
+- I also have interests on designing board games.
 
 ## Contact
 
