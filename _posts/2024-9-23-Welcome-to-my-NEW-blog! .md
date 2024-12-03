@@ -3,7 +3,7 @@ layout: mypost
 title: Welcome to my NEW blog! 
 categories: [Notice]
 date: 2024-9-23
-pinned :true
+pinned: true
 ---
 
 ## A Pinned Post
