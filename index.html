@@ -3,15 +3,16 @@ layout: page
 title: Homepage
 ---
 <div class="page page-index">
-  {% for post in site.posts  -%}
-    {%- capture post_year %}{{ post.date | date: "%Y" }}{% endcapture -%}
-    {%- capture post_previous_year %}{{ post.previous.date | date: "%Y" }}{% endcapture -%}
-    {%- capture post_next_year %}{{ post.next.date | date: "%Y" }}{% endcapture -%}
-    {%- if forloop.first or post_next_year != post_year -%}
-    <div class="list-post">
-      <h2 id="{{post_year}}">{{post_year}}</h2>
+  <!-- 筛选置顶文章 -->
+  {% assign pinned_posts = site.posts | where: "pinned", true %}
+  {% assign regular_posts = site.posts | where_exp: "post", "post.pinned != true" %}
+
+  <!-- 渲染置顶文章 -->
+  {% if pinned_posts.size > 0 %}
+    <div class="list-post pinned-posts">
+      <h2>置顶文章</h2>
       <ul>
-    {%- endif %}
+        {% for post in pinned_posts %}
         <li>
           <span class="date">{{ post.date | date: "%Y/%m/%d" }}</span>
           <div class="title">
@@ -23,9 +24,35 @@ title: Homepage
             {%- endfor %}
           </div>
         </li>
-    {%- if forloop.last or post_previous_year != post_year %}
+        {% endfor %}
       </ul>
     </div>
-    {%- endif %}
-  {%- endfor %}
+  {% endif %}
+
+  <!-- 渲染普通文章，按年份分组 -->
+  {% for post in regular_posts %}
+    {% capture post_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% capture post_previous_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+    {% capture post_next_year %}{{ post.next.date | date: "%Y" }}{% endcapture %}
+    {% if forloop.first or post_next_year != post_year %}
+    <div class="list-post">
+      <h2 id="{{post_year}}">{{post_year}}</h2>
+      <ul>
+    {% endif %}
+        <li>
+          <span class="date">{{ post.date | date: "%Y/%m/%d" }}</span>
+          <div class="title">
+            <a href="{{ site.baseurl | append: post.url }}" class="hover-underline">{{ post.title }}</a>
+          </div>
+          <div class="categories">
+            {% for categorie in post.categories -%}
+            <a href="{{site.baseurl}}/pages/categories.html#{{ categorie }}" class="hover-underline">{{ categorie }}</a>
+            {%- endfor %}
+          </div>
+        </li>
+    {% if forloop.last or post_previous_year != post_year %}
+      </ul>
+    </div>
+    {% endif %}
+  {% endfor %}
 </div>
