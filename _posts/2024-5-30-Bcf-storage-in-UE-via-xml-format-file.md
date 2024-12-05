@@ -26,7 +26,12 @@ __1. CreateXmlFromFile()__
 void UMyXml::CreateXmlFromFile(const FString& RootPath, const TMap<FString, FString>& ChildNodes, const FString& path, bool IsRepeatable)
 ```
 Input a XML file  `RootPath`, and if needed, create child-nodes.
+
 This function will transverse `Childnodes` and create them in a new XML file, then save the new file to `path` .
+
+
+
+
 
 
 __2. InsertNodeByTag()__
@@ -34,8 +39,14 @@ __2. InsertNodeByTag()__
 void UMyXml::InsertNodeByTag(const FString& NodeTag, const TMap<FString, FString>& ChildNodes, const FString& RootPath, bool IsRepeatable)
 ```
 Input a XML file `RootPath` and target tag`NodeTag`.
+
 This function will transverse `Childnodes` and create them in a new XML file, then find the child-nodes of node with given`NodeTag`. If these child-nodes already exist and are not repeatable, update their content, otherwise create them.
+
 Then save the  file to `RootPath`
+
+
+
+
 
 
 __3. InsertNodeByTagSec()__
@@ -45,12 +56,21 @@ void UMyXml::InsertNodeByTagSec(const FString& SecTag, const FString& FirTag, co
 This function is similar to InsertNodeByTag(), but it processes the child-node with tag`SecTag` of the parent-node with tag`FirTag`.
 
 
+
+
+
+
 __4. AddAttributesFir()__
 ```
 void UMyXml::AddAttributesFir(const FString& NodeTag, const TMap<FString, FString>& Attributes, const FString& RootPath)
 ```
 Input a XML file `RootPath` and target tag`NodeTag`.
+
 Find the node with tag`NodeTag`, add the attributes`Attributes` and save the file. 
+
+
+
+
 
 
 __5. AddAttributesSec()__
