@@ -39,8 +39,8 @@ menu:
   - title: Music
     url: /pages/chat.html
     target: '_blank'
-  - title: About Me
-    url: /pages/about.html
+  - title: Posts
+    url: /pages/posts.html
 
 # 点击页面文字冒出特效,不需要请设置为false
 extClickEffect: true
