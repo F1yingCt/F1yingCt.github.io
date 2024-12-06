@@ -1,15 +1,15 @@
 .page-post {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 2;
   word-break: break-all;
 }
 .page-post .title {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: bold;
   color: #666666;
 }
 .page-post .subtitle {
-  font-size: 12px;
+  font-size: 14px;
   color: #999999;
 }
 .page-post .post > * {
@@ -22,13 +22,13 @@
 .page-post .post h1,
 .page-post .post h2 {
   font-weight: normal;
-  font-size: 17px;
+  font-size: 18px;
   position: relative;
   cursor: pointer;
 }
 .page-post .post h1::before,
 .page-post .post h2::before {
-  content: '#';
+  content: '';
   top: 0;
   font-weight: bold;
   padding-right: 6px;
@@ -37,7 +37,7 @@
 .page-post h4,
 .page-post h5,
 .page-post h6 {
-  font-size: 15px;
+  font-size: 16px;
   font-weight: bold;
 }
 .page-post blockquote {
@@ -153,10 +153,10 @@
 }
 @media screen and (max-width: 560px) {
   .page-post {
-    font-size: 13px;
+    font-size: 14px;
   }
   .page-post pre code {
-    font-size: 12px;
+    font-size: 13px;
   }
   .page-post .post > * {
     margin: 15px 0;
