@@ -1,7 +1,9 @@
 .page-post {
   font-size: 16px;
   line-height: 2;
-  word-break: break-all;
+  word-break: normal;
+  overflow-wrap: break-word;
+  white-space: normal;
 }
 .page-post .title {
   font-size: 20px;
