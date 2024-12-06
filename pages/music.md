@@ -5,7 +5,7 @@ title: My Band
 <div style="float: right; margin-left: 20px; margin-bottom: 20px;">
   <a href="https://www.imagehub.cc/image/band-logo.CHlGzg"><img src="https://s1.imagehub.cc/images/2024/12/06/8fb085a9ed01724abd94fa1414fbef6c.jpg" alt="band logo" border="0" style="zoom:25%;"></a>
 </div>
-## My Band
+
 
 My friends and I formed a band named "***NONE***", and in Chinese "**無**".
 <br>
