@@ -37,7 +37,7 @@ menu:
   - title: Search
     url: /pages/search.html
   - title: Music
-    url: /pages/music.md
+    url: /pages/music.html
   - title: Posts
     url: /pages/posts.html
 
