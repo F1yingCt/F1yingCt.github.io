@@ -6,7 +6,7 @@ title: Homepage
 > Hello, Welcome to Chris WANG's Page!
 
 This is where I posting some of  my research, my ideas and other interests.
-<div style="float: right; margin-left: 20px; margin-bottom: 100px; margin-top: 100px;">
+<div style="float: right; margin-left: 20px; margin-bottom: 100px; margin-top: 50px;">
   <a href="https://www.imagehub.cc/image/me.CHl46z"><img src="https://s1.imagehub.cc/images/2024/12/06/b33ddaa0b25cee37bb69ea8a5105db02.jpg" alt="me" border="0" style="zoom:15%;"></a>
 </div>
 
