@@ -24,7 +24,7 @@ domainUrl: 'https://F1yingCt.github.io'
 baseurl: ''
 
 # 吐个槽地址，会在chat页面中重定向到该地址
-tucaoUrl: https://music.163.com/#/artist?id=48571641
+#tucaoUrl: https://music.163.com/#/artist?id=48571641
 
 # 菜单
 # 必填字段 title: '文本' url: '链接'
@@ -37,8 +37,7 @@ menu:
   - title: Search
     url: /pages/search.html
   - title: Music
-    url: /pages/chat.html
-    target: '_blank'
+    url: /pages/music.md
   - title: Posts
     url: /pages/posts.html
 

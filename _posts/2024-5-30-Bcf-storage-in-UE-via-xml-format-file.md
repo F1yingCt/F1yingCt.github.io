@@ -57,7 +57,7 @@ void UMyXml::InsertNodeByTagSec(const FString& SecTag, const FString& FirTag, co
 ```
 <details>
   <summary><b>How it works</b></summary>
-  This function is similar to InsertNodeByTag(), but it processes the child-node with tag<code>SecTag</code> of the parent-node with tag<code>FirTag</code>.
+  This function is similar to <code>InsertNodeByTag()</code>, but it processes the child-node with tag<code>SecTag</code> of the parent-node with tag<code>FirTag</code>.
 </details>
 
 
