@@ -32,14 +32,15 @@ baseurl: ''
 menu:
   - title: Homepage
     url: /
+  - title: Posts
+    url: /pages/posts.html
   - title: Categories
     url: /pages/categories.html
   - title: Search
     url: /pages/search.html
   - title: Music
     url: /pages/music.html
-  - title: Posts
-    url: /pages/posts.html
+  
 
 # 点击页面文字冒出特效,不需要请设置为false
 extClickEffect: true
