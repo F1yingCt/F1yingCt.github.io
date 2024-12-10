@@ -2,7 +2,7 @@
 layout: mypost
 title: BCF storage in UE via XML format file
 categories: [Research]
-date: 2024-5-30
+date: 2023-5-30
 pinned: false
 ---
 
