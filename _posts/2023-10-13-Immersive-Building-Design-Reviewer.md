@@ -40,7 +40,7 @@ When users are satisfied with your marks, they can also press trigger on left co
 
 <br>
 
-### BIM Interoperability
+### BIM Support
 
 As our reviewer is for practitioners sectors, all BIM data attached to objects will be reserved when importing to our reviewer. Users can select the objects by controllers and check their information.<br>
 
