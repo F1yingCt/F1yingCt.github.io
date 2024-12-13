@@ -50,7 +50,7 @@ Also, users are able to leave their comments of each object through speech input
 
 <br>
 
-Moreover, we allow users to store their comments and screenshot in BCF files, and they can transfer the review data to BCF platforms later. If you want to learn the implementation of this function, please read [BCF Storage in UE](https://f1yingct.github.io/posts/2023/05/30/Bcf-storage-in-UE-via-xml-format-file.html)
+Moreover, we allow users to store their comments and screenshot in BCF files, and they can transfer the review data to BCF platforms later. If you are interested in the implementation of this function, please read [BCF Storage in UE](https://f1yingct.github.io/posts/2023/05/30/Bcf-storage-in-UE-via-xml-format-file.html)
 
 <br>
 
