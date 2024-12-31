@@ -8,6 +8,9 @@ title: My Band
 
 
 My friends and I formed a band named "***NONE***", and in Chinese "**無**".
+
+The band logo was designed by me :)
+
 <br>
 
 We've recorded several demos by ourselves. Though they sound a little bit rough, these demos are the first step that we tried to express our world.

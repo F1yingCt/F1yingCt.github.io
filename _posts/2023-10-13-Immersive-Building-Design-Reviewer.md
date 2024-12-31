@@ -6,7 +6,7 @@ date: 2023-10-13
 pinned: false
 ---
 
-## Immersive Building Design Reviewer
+> In this project, we  developed a building design reviewer that enables users to review the buildings with BIM in immersive environment, interact  with the objects and leave their comments.
 
 Remote collaboration has drawn more and more attention of practitioners in AEC sectors. Especially in building design review, plenty of conceptions or techniques that derive from BIM(Building Information Modelling) have already meet the requirement of remote collaboration. 
 
