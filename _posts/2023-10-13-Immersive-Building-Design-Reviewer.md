@@ -1,18 +1,18 @@
 ---
 layout: mypost
-title: Immersive Building Design Reviewer
+title: Immersive Architectural Design Reviewer
 categories: [Research]
 date: 2023-10-13
 pinned: false
 ---
 
-> **In this project, we  developed a building design reviewer that enables users to review the buildings with BIM in immersive environment, interact  with the objects and leave their comments.**
+> **In this project, we  developed a building architectural reviewer that enables users to review the building with its information in immersive environment, interact  with the objects and leave their comments.**
 
-Remote collaboration has drawn more and more attention of practitioners in AEC sectors. Especially in building design review, plenty of conceptions or techniques that derive from BIM(Building Information Modelling) have already meet the requirement of remote collaboration. 
+Remote collaboration has drawn more and more attention of practitioners in AEC sectors. Especially in building design review, plenty of conceptions or techniques that derive from BIM (Building Information Modeling) have already meet the requirement of remote collaboration. 
 
-However, there have not been a widely adopted platform for the collaboration of building design review. One of the causes is that even in a BCF(BIM Collaboration Format) platform, the efficiency of communication is limited. For example, cooperators need extra explanations like comments to understand the suggestions of each other. When these explanations become mass, cooperators may be confused and have to take effort to learn how to use the platform.
+However, there have not been a widely adopted platform for the collaboration of architectural design review. One of the causes is that even in a BCF (BIM Collaboration Format) platform, the efficiency of communication is limited. For example, cooperators need extra explanations like comments to understand the suggestions of each other. When these explanations become mass, cooperators may be confused and have to take effort to learn how to use the platform.
 
-Virtual Reality provides us with powerful tools to handle these problems. In this project, we aimed to develop a building design reviewer that enables users to review the buildings with BIM in immersive environment, interact intuitively with the objects and leave their comments. 
+Virtual Reality provides us with powerful tools to handle these problems. In this project, we aimed to develop a architectural design reviewer that enables users to review the buildings with BIM in immersive environment, interact intuitively with the objects and leave their comments. 
 
 In the following parts, several functions of our design reviewer will be introduced.  The VR hardware adopted in our reviewer is HTC Vive VR Bundles, including a HMD and two VR controllers.
 
@@ -36,7 +36,7 @@ Users are allowed to draw 3-D marks in our reviewer.  Press side button on right
 
 When users are satisfied with your marks, they can also press trigger on left controller to make a snapshot of their viewpoint.
 
-![s3](https://s1.imagehub.cc/images/2024/12/12/869e450206e12bbf4cb7ef1c4503f497.md.png)
+![s3](https://s1.imagehub.cc/images/2024/12/12/869e450206e12bbf4cb7ef1c4503f497.png)
 
 <br>
 
@@ -46,7 +46,7 @@ As our reviewer is for practitioners sectors, all BIM data attached to objects w
 
 Also, users are able to leave their comments of each object through speech input. Comments will be attached to the objects and divided by usernames. 
 
-![s2](https://s1.imagehub.cc/images/2024/12/12/fe3ac4d849848dc12af4a68613f22166.md.png)
+![s2](https://s1.imagehub.cc/images/2024/12/12/fe3ac4d849848dc12af4a68613f22166.png)
 
 <br>
 
