@@ -18,12 +18,11 @@ There have been three moving technologies available in the reviewer: Joystick, T
 
 Three scenes were employed for the experiment: a bookstore, a villa, and a campus, representing three architectural types—indoor buildings, stand-alone buildings, and building complexes.
 ![scenes](https://s1.imagehub.cc/images/2025/01/18/ec0c2988a9c0bd623b459c13a90e1d88.png)
-<br>
 
 ### Participants
 
 The evaluation involved 30 participants (22 males, 8 females) aged between 20 and 30. All participants have a background in civil engineering or architecture.
-<br>
+
 ## Methods
 
 In the formal experiment, each participant sequentially went through three scenes, but the order in which they enter the scenes was randomized. Participants independently completed tasks in the three scenes by following the path, reaching to the task points, and then using the controller to answer questions. The questions included distance and orientation judgments, and the error rates were calculated for the evaluation.  
@@ -33,7 +32,7 @@ In the formal experiment, each participant sequentially went through three scene
 Factors of perceived distance and traversed distance were employed for the analysis of the influence on distance judgments. Perceived distance is further divided into egocentric distance and allocentric distance. Egocentric distance refers to the distance between an object to the individual (typically a human) position, while allocentric distance refers to the distance between external references or the environment objects.
 
 ![distance tasks](https://s1.imagehub.cc/images/2025/01/18/ad176d486202a5d7f278fdc64bc14d2b.png) 
-<br>
+
 
 ### 2) Orientation judgments
 
@@ -45,7 +44,7 @@ Participants' sense of direction in the virtual environment was assessed through
 ### Questionnaires of user experience
 
 A set of questionnaires was also used to evaluate the user experience of three navigation features: sickness, usability, and comfort. The questionnaires selectively incorporated items from the SSQ,  SUS, and DAQ, assigning scores to comprehensively assess the differences and advantages of three locomotion methods in terms of subjective experience.
-<br>
+
 
 ## Hypotheses
 
