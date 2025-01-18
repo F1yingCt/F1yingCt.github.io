@@ -40,11 +40,11 @@ Factors of perceived distance and traversed distance were employed for the analy
 Participants' sense of direction in the virtual environment was assessed through orientation questions, evaluating their ability to understand their current position and discern the direction.
 
 ![orientation](https://s1.imagehub.cc/images/2025/01/18/cd43fea38924b85d1b8ce12e97f12e17.png)
-<br>
+
 
 ### Questionnaires of user experience
 A set of questionnaires was also used to evaluate the user experience of three navigation features: sickness, usability, and comfort. The questionnaires selectively incorporated items from the SSQ,  SUS, and DAQ, assigning scores to comprehensively assess the differences and advantages of three locomotion methods in terms of subjective experience.
-<br>
+
 ## Hypotheses
 1. The accuracy of distance estimation may not show significant differences among the three groups. But Teleportation tends to perform worse in terms of orientation judgment accuracy.
 
@@ -53,9 +53,10 @@ A set of questionnaires was also used to evaluate the user experience of three n
 
 
 3. Compared to Joystick and Leaning, Teleportation offers better user experience.
-<br>
+
+
 ## Results
 The results confirmed our hypothesis regarding users' perception of distance estimation accuracy. However, in relative position judgment, Teleportation demonstrated superior accuracy, which contradicts our initial hypothesis. Additionally, Teleportation provides a better user experience by reducing discomfort and fatigue, while enhancing usability. 
-<br>
+
 ## Conclusion
 The results show that there were no significant differences among the three navigation features in distance estimation. However, Teleportation performed better in reducing motion sickness and demonstrated significantly higher usability. Thus, Teleportation can be the most suitable navigation feature for the architectural reviewer.
