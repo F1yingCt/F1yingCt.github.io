@@ -22,7 +22,7 @@ In the following parts, several features of our design reviewer will be introduc
 
 ###  Navigation
 
-This is a basic function that the implementation of architectural visualization system requires.  In our reviewer, Teleport is chosen as the navigation method for users to improve the efficiency and reduce the motion sickness. Please refer to [this](https://f1yingct.github.io/posts/2023/11/7/Evaluate-different-navigation-features.html) for the reason.
+This is a basic function that the implementation of architectural visualization system requires.  In our reviewer, Teleport is chosen as the navigation method for users to improve the efficiency and reduce the motion sickness. Please refer to [this](https://f1yingct.github.io/posts/2023/11/07/Evaluate-different-navigation-features.html) for the reason.
 
 **Teleport**
 
