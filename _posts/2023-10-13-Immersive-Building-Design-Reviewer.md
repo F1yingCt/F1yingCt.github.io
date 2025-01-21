@@ -14,7 +14,7 @@ However, there have not been a widely adopted platform for the collaboration of 
 
 Virtual Reality provides us with powerful tools to handle these problems. In this project, we aimed to develop a architectural design reviewer that enables users to review the buildings with BIM in immersive environment, interact intuitively with the objects and leave their comments. 
 
-In the following parts, several functions of our design reviewer will be introduced.  The VR hardware adopted in our reviewer is HTC Vive VR Bundles, including a HMD and two VR controllers.
+In the following parts, several features of our design reviewer will be introduced.  The VR hardware adopted in our reviewer is HTC Vive VR Bundles, including a HMD and two VR controllers.
 
 ![design_reviewer](https://s1.imagehub.cc/images/2024/12/12/eab94a963f9be20854e360a2e07426d5.md.jpg)
 
@@ -22,7 +22,7 @@ In the following parts, several functions of our design reviewer will be introdu
 
 ###  Navigation
 
-This is a basic function that the implementation of architectural visualization system requires.  In our reviewer, Teleport is chosen as the navigation method for users to improve the efficiency and reduce the motion sickness.
+This is a basic function that the implementation of architectural visualization system requires.  In our reviewer, Teleport is chosen as the navigation method for users to improve the efficiency and reduce the motion sickness. Please refer to [this](https://f1yingct.github.io/posts/2023/11/7/Evaluate-different-navigation-features.html) for the reason.
 
 **Teleport**
 
