@@ -48,16 +48,16 @@ A set of questionnaires was also used to evaluate the user experience of three n
 
 ## Hypotheses
 
-1. The accuracy of distance estimation may not show significant differences among the three groups. But Teleportation tends to perform worse in terms of orientation judgment accuracy.
+1. The accuracy of distance estimation may not show significant differences among the three groups. 
 
-2. In terms of orientation judgment accuracy, the group using Teleportation tends to perform worse.
+2. The group using Teleportation perform worse in orientation judgment.
 
-3. Compared to Joystick and Leaning, Teleportation offers better user experience.
+3. Teleportation can offer better user experience compared to Joystick and Leaning.
 
 
 ## Results
 
-The results confirmed our hypothesis regarding users' perception of distance estimation accuracy. However, in relative position judgment, Teleportation demonstrated superior accuracy, which contradicts our initial hypothesis. Additionally, Teleportation provides a better user experience by reducing discomfort and fatigue, while enhancing usability. 
+The results confirmed the hypothesis regarding users' perception of distance estimation accuracy. However, in relative position judgment, Teleportation demonstrated higher accuracy, which contradicts our initial hypothesis. Additionally, Teleportation provides a better user experience by reducing discomfort and fatigue, while enhancing usability. 
 
 ## Conclusion
 

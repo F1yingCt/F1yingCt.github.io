@@ -10,9 +10,9 @@ pinned: true
 <div style="float: right; margin-left: 20px; margin-bottom: 20px;">
   <img src="https://s1.imagehub.cc/images/2024/12/03/d1ec8964dd2e3b018fd8bae7446af2a1.th.jpg" alt="sunglass_turtle" style="zoom:25%;" />
 </div>
-This is the __INTERNATIONAL__ version of my page👏. 
+This is the International version of my page👏. 
 
-I'm posting my articles written before in English.
+I'm re-posting my articles written before in English.
 
 
 
