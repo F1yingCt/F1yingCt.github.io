@@ -4,10 +4,10 @@ plugins:
   - jekyll-regex-replace
 
 # SEO相关信息
-title: Chris Wang's Blog
-description: Chris(Zining) Wang's Blog
-keywords: Zining Wang,Chris Wang,HUST,VR
-author: Chris Wang
+title: Jim Wang's Blog
+description: Jim(Zining) Wang's Blog
+keywords: Zining Wang,Jim Wang,HUST,VR
+author: Jim Wang
 footerText: ''
 
 # 这些不要动
