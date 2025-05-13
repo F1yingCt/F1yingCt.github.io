@@ -2,7 +2,7 @@
 layout: mypost
 title: Evaluate different navigation features in VR reviewer
 categories: [Research]
-date: 2023-11-7
+date: 2024-11-7
 pinned: false
 ---
 
