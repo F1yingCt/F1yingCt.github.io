@@ -24,7 +24,7 @@ The simulation software will capture the position and status of the virtual skel
 
 This is the main part of my work in this project. A game engine, Unreal Engine 4, was employed for the development of the simulation software. 
 
-We modified a Vehicle model to simplify the physical simulation of skeleton sliding. In our model, users' input will be regarded as lateral forces to control the steering. During the sliding, virtual skeleton's velocity and postures will be captured and send to the motion platform via User Datagram Protocol. 
+We modified a Vehicle model to simplify the physical simulation of skeleton sliding. In our model, users' input will be regarded as lateral forces to control the steering. During the sliding, virtual skeleton's velocity and postures will be captured and send to the motion platform.
 
 ![p2](https://s1.imagehub.cc/images/2024/12/16/ff8093b95ad1ee1cce31a4627a8cb1e6.md.png)
 
